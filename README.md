@@ -1,1 +1,1 @@
-## JavaScript-Tab
+## javascript-tab
